@@ -6,7 +6,7 @@
     font-family: 'Poppins';
 }
 .banner{
-    background: url(/assets/yellowsize.svg);
+    background: url(assets/yellowsize.svg);
     height: 930px;
     background-repeat: no-repeat;
     background-position: 100% -2%;
@@ -73,7 +73,7 @@
     color: gray;
 }
 .left-text span{
-    background-image: url(/assets/undermark.svg);
+    background-image: url(assets/undermark.svg);
     background-repeat: no-repeat;
     background-position: 50% 84%;;
 }
@@ -663,7 +663,7 @@
     background-color: #f6f3fd;
     margin: auto;
     border-radius: 60px;
-    background: url(/assets/circle1.svg),url(/assets//circle2.svg) #f6f3fd;
+    background: url(assets/circle1.svg),url(assets/circle2.svg) #f6f3fd;
     background-position: 111% -83%, 3% -86%;
     background-size: auto auto;
     background-repeat: no-repeat;
