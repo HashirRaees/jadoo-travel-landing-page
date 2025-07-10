@@ -791,7 +791,7 @@
     display: flex;
     justify-content: space-between;
     flex: 2;
-    min-width: 600px;
+    width: 100%;
   }
   
   .footer-company, .footer-contact, .footer-more {
